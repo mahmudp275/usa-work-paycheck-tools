@@ -16,10 +16,10 @@ To add a real screenshot to this README after testing the plugin:
 
 1. Take a screenshot of the published calculator page in WordPress.
 2. Upload it to this repository as `screenshots/calculator-preview.png`.
-3. Replace this paragraph with the following Markdown:
+3. The screenshot file can be referenced by its filename:
 
 ```markdown
-![USA Paycheck & Work Tools calculator preview](screenshots/calculator-preview.png)
+screenshots/calculator-preview.png
 ```
 
 You can also add screenshots of the overtime, paycheck, and work-hours tabs to the same folder.
@@ -110,7 +110,7 @@ The plugin uses standard WordPress shortcode functionality and can be embedded u
 - Values are for planning and education, not tax, legal, or payroll advice.
 - Results should be checked against current rules and an appropriate professional where necessary.
 
-Official reference resources: [IRS](https://www.irs.gov/) · [U.S. Department of Labor](https://www.dol.gov/)
+Official reference resources: IRS · U.S. Department of Labor
 
 ## Planned Improvements
 
@@ -126,7 +126,7 @@ Official reference resources: [IRS](https://www.irs.gov/) · [U.S. Department of
 
 **Mahmud** — WordPress Developer | Elementor | Gutenberg | WooCommerce | SEO
 
-GitHub: [@mahmudp275](https://github.com/mahmudp275)
+GitHub username: `mahmudp275`
 
 ## License
 
